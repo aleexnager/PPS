@@ -1,7 +1,9 @@
+>[!WARNING]\
+>El plagio o intento de copia de este material en el proyecto de la asignatura de Programación Para Sistemas (PPS) impartida por la ETSIINF de la UPM supondrá un suspenso inmediato. Este contenido es únicamente informativo y de uso didáctico, los autores de este proyecto no nos hacemos responsables del mal uso que se le pueda dar al contenido de este repositorio. ([LICENSE](/LICENSE))
+
 # PPS
 PPS - Programación Para Sistemas (ETSIINF-UPM)
 Entregas de C y Bash de la asignatura PPS durante el curso 2022-2023.  
-El contenido de este repositorio es puramente didactivo y no me hago responsable del mal uso del contenido del mismo. Cualquier intento de plagio será penalizado con un suspenso directo en la asignatura ([LICENSE](LICENSE)).
 
 ## Contenido
 [C-entrega1](C-entrega1): Primera entrega de C, ejercicios básicos sobre arrays y manipulación de ficheros y su contenido.  
